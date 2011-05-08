@@ -1,0 +1,26 @@
+Sun Dec 12 12:01:15 EST 2004
+
+	* add in the code for bandwidth bound estimation (see README for the 
+	  example). The following code are changed: 
+	  choke.c, get-choke.c, pathneck.c, script/get.pl
+
+Sat Nov  6 15:41:09 EST 2004
+
+	* fix the bug in "-c" mode
+	   [thanks Bryant Lai for the bug report]
+
+	* release version 1.2
+
+Thu Nov  4 19:23:32 EST 2004
+
+	* apply the patch for MAC 
+	   [thanks Michael Abd-El-Malek for the patch 
+	    & Neil Spring for the testing]
+
+	* fix the bug that can show up under "-o" mode
+	* adjust the output when no measurement is obtained 
+	   [thanks Neil Spring for pointing them out]
+
+Fri Aug 27 20:26:39 EDT 2004
+	
+	* release version 1.1

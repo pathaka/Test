@@ -1,0 +1,138 @@
+Pathenck V1.2 Usage: 
+
+    	./pathneck [-e end_pkt_num] [-l udp_pkt_num] [-s pkt_size] 	
+		   [-i self_ip] [-y delay_num] [-coptx] [-dvh]		
+		   <dst_ip | dst_hostname>				
+
+[probing configuration]
+	-e end_pkt_num	number of measurement packets [30]		
+	-l udp_pkt_num	number of load packets [60]			
+	-s pkt_size	the load packet size in byte [500]		
+	-c		use ICMP probing packets, [UDP]			
+    	-p 		use the planetlab raw socket interface [0]	
+	-y delay_num	specify the src gap within the packet train [0]	
+	-i self_ip	sproof the probing pkt source ip [not set]	
+
+[output setting] 
+	-x		enable the DNS lookup [0]			
+	-o 		enable on-line detection processing [0]		
+	-t		dump the packet sending times [0]		
+	-d 		debug mode [0]					
+	-v 		verbose mode [0]				
+	-h 		print this message [0]				
+
+Pathenck V1.2 Usage: 
+
+    	./pathneck [-e end_pkt_num] [-l udp_pkt_num] [-s pkt_size] 	
+		   [-i self_ip] [-y delay_num] [-coptx] [-dvh]		
+		   <dst_ip | dst_hostname>				
+
+[probing configuration]
+	-e end_pkt_num	number of measurement packets [30]		
+	-l udp_pkt_num	number of load packets [60]			
+	-s pkt_size	the load packet size in byte [500]		
+	-c		use ICMP probing packets, [UDP]			
+    	-p 		use the planetlab raw socket interface [0]	
+	-y delay_num	specify the src gap within the packet train [0]	
+	-i self_ip	sproof the probing pkt source ip [not set]	
+
+[output setting] 
+	-x		enable the DNS lookup [0]			
+	-o 		enable on-line detection processing [0]		
+	-t		dump the packet sending times [0]		
+	-d 		debug mode [0]					
+	-v 		verbose mode [0]				
+	-h 		print this message [0]				
+
+Pathenck V1.2 Usage: 
+
+    	./pathneck [-e end_pkt_num] [-l udp_pkt_num] [-s pkt_size] 	
+		   [-i self_ip] [-y delay_num] [-coptx] [-dvh]		
+		   <dst_ip | dst_hostname>				
+
+[probing configuration]
+	-e end_pkt_num	number of measurement packets [30]		
+	-l udp_pkt_num	number of load packets [60]			
+	-s pkt_size	the load packet size in byte [500]		
+	-c		use ICMP probing packets, [UDP]			
+    	-p 		use the planetlab raw socket interface [0]	
+	-y delay_num	specify the src gap within the packet train [0]	
+	-i self_ip	sproof the probing pkt source ip [not set]	
+
+[output setting] 
+	-x		enable the DNS lookup [0]			
+	-o 		enable on-line detection processing [0]		
+	-t		dump the packet sending times [0]		
+	-d 		debug mode [0]					
+	-v 		verbose mode [0]				
+	-h 		print this message [0]				
+
+Pathenck V1.2 Usage: 
+
+    	./pathneck [-e end_pkt_num] [-l udp_pkt_num] [-s pkt_size] 	
+		   [-i self_ip] [-y delay_num] [-coptx] [-dvh]		
+		   <dst_ip | dst_hostname>				
+
+[probing configuration]
+	-e end_pkt_num	number of measurement packets [30]		
+	-l udp_pkt_num	number of load packets [60]			
+	-s pkt_size	the load packet size in byte [500]		
+	-c		use ICMP probing packets, [UDP]			
+    	-p 		use the planetlab raw socket interface [0]	
+	-y delay_num	specify the src gap within the packet train [0]	
+	-i self_ip	sproof the probing pkt source ip [not set]	
+
+[output setting] 
+	-x		enable the DNS lookup [0]			
+	-o 		enable on-line detection processing [0]		
+	-t		dump the packet sending times [0]		
+	-d 		debug mode [0]					
+	-v 		verbose mode [0]				
+	-h 		print this message [0]				
+
+Pathenck V1.2 Usage: 
+
+    	./pathneck [-e end_pkt_num] [-l udp_pkt_num] [-s pkt_size] 	
+		   [-i self_ip] [-y delay_num] [-coptx] [-dvh]		
+		   <dst_ip | dst_hostname>				
+
+[probing configuration]
+	-e end_pkt_num	number of measurement packets [30]		
+	-l udp_pkt_num	number of load packets [60]			
+	-s pkt_size	the load packet size in byte [500]		
+	-c		use ICMP probing packets, [UDP]			
+    	-p 		use the planetlab raw socket interface [0]	
+	-y delay_num	specify the src gap within the packet train [0]	
+	-i self_ip	sproof the probing pkt source ip [not set]	
+
+[output setting] 
+	-x		enable the DNS lookup [0]			
+	-o 		enable on-line detection processing [0]		
+	-t		dump the packet sending times [0]		
+	-d 		debug mode [0]					
+	-v 		verbose mode [0]				
+	-h 		print this message [0]				
+
+Pathenck V1.2 Usage: 
+
+    	./pathneck [-e end_pkt_num] [-l udp_pkt_num] [-s pkt_size] 	
+		   [-i self_ip] [-y delay_num] [-coptx] [-dvh]		
+		   <dst_ip | dst_hostname>				
+
+[probing configuration]
+	-e end_pkt_num	number of measurement packets [30]		
+	-l udp_pkt_num	number of load packets [60]			
+	-s pkt_size	the load packet size in byte [500]		
+	-c		use ICMP probing packets, [UDP]			
+    	-p 		use the planetlab raw socket interface [0]	
+	-y delay_num	specify the src gap within the packet train [0]	
+	-i self_ip	sproof the probing pkt source ip [not set]	
+
+[output setting] 
+	-x		enable the DNS lookup [0]			
+	-o 		enable on-line detection processing [0]		
+	-t		dump the packet sending times [0]		
+	-d 		debug mode [0]					
+	-v 		verbose mode [0]				
+	-h 		print this message [0]				
+
